@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Ben 👋
+
+![](https://github-readme-stats.vercel.app/api?username=bsarrazin&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <!--
 **bsarrazin/bsarrazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
